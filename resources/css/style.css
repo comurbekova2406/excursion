@@ -31,7 +31,7 @@ body {
 }
 
 /* FOOTER*/
-footer--copyright {
+.footer--copyright {
     text-align: right;
     font-size: 21 px;
     color: grey}
