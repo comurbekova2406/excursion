@@ -7,6 +7,9 @@ body {
 .header--main {
     font-family: normal;
     font-size: 50 px;
-    color: white;
-    
+    color: white; 
 }
+
+.link--cta {
+    font-size: 16 px;
+    color: aquamarine}
